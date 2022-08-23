@@ -6,7 +6,7 @@ _Software Used: Code Composer Studio V7_<br><br>
 <br>
 
 
-_Required Files:_<br>
+_Required Files:_<br><br>
 <img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/Files.PNG" width="650"><br><br>
 
 <br>
