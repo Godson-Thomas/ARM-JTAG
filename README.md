@@ -5,11 +5,10 @@ _Software Used: Code Composer Studio V7_<br><br>
 
 <br>
 
-```
+
 
 <img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/Files.png" width="650"><br><br>
 
-```
 <br>
 <img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/S%20(1).png" width="650"><br><br>
 <img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/S%20(2).png" width="650"><br><br>
