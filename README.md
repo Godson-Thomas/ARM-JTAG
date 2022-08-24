@@ -1,5 +1,5 @@
 # _XDS200 JTAG_
-<img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/XDS200.PNG" width="500"><br><br>
+<img src="https://github.com/Godson-Thomas/ARM-JTAG/blob/master/XDS200.PNG" width="300"><br><br>
 <br>
 
 _Software Used: Code Composer Studio V7_<br><br>
